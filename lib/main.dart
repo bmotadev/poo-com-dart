@@ -8,6 +8,9 @@ void main(List<String> arguments) {
   print(pessoa.idade);
   print(pessoa.sexo);
 
-  print(pessoa.otherNome);
+  print(pessoa.peso);
+  print(pessoa.altura);
+
+  //print(pessoa.otherNome);
 
 }
